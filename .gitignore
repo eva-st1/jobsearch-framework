@@ -1,0 +1,22 @@
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and build output
+node_modules/
+dist/
+dist-node/
+.vite/
+coverage/
+.local/
+tmp/
+output/
+*.log
+
+# Local Neon and generated tooling state
+.neon
+.drizzle/
+
+# OS/editor files
+.DS_Store

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create CV"
+  short_description: "Create truthful, AI-ready CVs with proof"
+  default_prompt: "Use $create-cv to create a truthful, role-tailored CV optimized for current AI-assisted recruiting and, when useful, a portfolio or Codex work-sample strategy from verified Jobsearch evidence."

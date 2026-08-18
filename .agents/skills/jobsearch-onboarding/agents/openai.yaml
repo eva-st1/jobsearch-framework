@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jobsearch Onboarding"
+  short_description: "Set up a private evidence-based job search"
+  default_prompt: "Use $jobsearch-onboarding to set up my private Jobsearch workspace through a guided interview."

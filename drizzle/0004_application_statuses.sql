@@ -1,0 +1,2 @@
+ALTER TYPE "public"."application_status" ADD VALUE 'accepted' BEFORE 'rejected';--> statement-breakpoint
+ALTER TYPE "public"."application_status" ADD VALUE 'archived';

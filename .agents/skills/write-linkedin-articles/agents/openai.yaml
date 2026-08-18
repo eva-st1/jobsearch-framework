@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write LinkedIn Articles"
+  short_description: "Research-led articles in your authentic voice"
+  default_prompt: "Use $write-linkedin-articles to research and draft a LinkedIn article in my established voice."

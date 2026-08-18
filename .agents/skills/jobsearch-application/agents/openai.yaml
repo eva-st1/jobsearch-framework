@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jobsearch Application"
+  short_description: "Research and tailor evidence-based job applications"
+  default_prompt: "Use $jobsearch-application to research this role and create a validated application package."
