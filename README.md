@@ -4,7 +4,7 @@ An evidence-led, local-first job-search workspace designed for people who want A
 
 **Product conceived and directed by [Eva Steen](https://www.eva-steen.com/); developed collaboratively with Codex.** Eva defined the problem, product behavior, evidence rules, workflow, privacy boundaries, and review criteria. Codex supported implementation, testing, documentation, and packaging under her direction.
 
-[Read the employer-facing case study](docs/case-study.md) · [View Eva's LinkedIn](https://www.linkedin.com/in/evasteen/) · [Portfolio](https://www.eva-steen.com/)
+[Complete user guide](docs/user-guide.md) · [Employer-facing case study](docs/case-study.md) · [View Eva's LinkedIn](https://www.linkedin.com/in/evasteen/) · [Portfolio](https://www.eva-steen.com/)
 
 ![The Jobsearch application library with fictional applications, workflow stages, and match judgments](docs/images/application-library.jpg)
 
@@ -27,7 +27,7 @@ The detailed [case study](docs/case-study.md) explains the contribution boundary
 
 ## Start here
 
-This edition is designed for a nontechnical macOS user with Codex.
+This edition is designed for a nontechnical macOS user. Codex is the primary supported experience, and the repository also includes a Claude Code compatibility layer.
 
 1. Open this repository in Codex.
 2. Say: **“Set up Jobsearch for me.”**
@@ -36,6 +36,10 @@ This edition is designed for a nontechnical macOS user with Codex.
 5. Codex will show the built-in Evidence CV template and ask whether to keep it, adapt it, or use another format.
 
 The onboarding interview is progressive. It records answers in the profile, asks only for material gaps, and never borrows assumptions from another user.
+
+For Claude Code, open the cloned folder and say: **“Read CLAUDE.md, set up Jobsearch for me, and begin the onboarding interview. I am not technical.”** A standard browser chat cannot install or operate the local application by itself.
+
+See the [complete user guide](docs/user-guide.md) for permission, installation, onboarding questions, daily workflows, portal instructions, status tracking, privacy, backups, adaptation, and troubleshooting.
 
 ## What stays private
 
@@ -113,4 +117,4 @@ See [docs/architecture.md](docs/architecture.md) for the system boundaries and [
 
 ## Source availability
 
-This repository is publicly readable as a portfolio and evaluation artifact, but it is **not open source**. No open-source license is granted. See [NOTICE.md](NOTICE.md) for the use boundary.
+This repository is publicly readable as a portfolio and evaluation artifact, but it is **not open source**. No open-source license is granted. See [NOTICE.md](NOTICE.md) for the use boundary and [the user guide](docs/user-guide.md#permission-to-install-or-adapt-it) for how to authorize a specific person.
